@@ -1,0 +1,6 @@
+model,tunekey,tunevalue,accuracy
+LR,regulization,0.1,0.01851851851851849
+LR,regulization,1.0,0.01851851851851849
+LR,regulization,10.0,0.01851851851851849
+DT,maxDepth,10.0,0.03703703703703709
+DT,maxDepth,15.0,0.03703703703703709
